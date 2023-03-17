@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dineshgautam384
-- 👀 I’m interested in Website Developing
-- 🌱 I’m currently learning Angular 14
-- 💞️ I’m looking to collaborate on Angular 14 based Projects.
+- 👋 I am Dinesh Gautam
+- 🌱 I’m currently learning Mean Stack
+- 👀 I’m interested in Website Development
 - 📫 Mail Me : dineshgautam384@gmail.com
 
 <!---
